@@ -1,0 +1,162 @@
+@charset "ISO-8859-1";
+
+table {
+	height: 20px;
+	width: 100%;
+	text-align: center;
+	background: none repeat scroll 0 0 #E5E5E5;
+	border-bottom: 1px solid #BBBBBB;
+	padding: 16px;
+	border-spacing: 10px;
+    border-collapse: separate;
+}
+
+th {
+	background-color: #4CAF50;
+	color: white;
+	padding: 15px;
+	text-align: left;
+	color: white;
+	padding: 15px;
+}
+
+td {
+	padding: 15px;
+	text-align: right;
+}
+
+table.table2 {
+	height: 20px;
+	width: 100%;
+	text-align: left;
+	border-bottom: 1px solid #BBBBBB;
+	padding: 16px;
+}
+
+label {
+	text-align: right;
+	width: 50%;
+	
+}
+
+td.table2 {
+	padding: 15px;
+	text-align: left;
+	white-space: nowrap;
+	max-width: 100%;
+}
+
+
+
+order-table-header {
+	height: 50px;
+	width: 100%;
+	text-align: center;
+	background: none repeat scroll 0 0 #FFFFFF;
+	border-bottom: 1px solid #BBBBBB;
+	padding: 16px;
+}
+
+order-table-odd-row {
+	height: 50px;
+	width: 100%;
+	text-align: center;
+	background: none repeat scroll 0 0 #E5E5E5;
+	border-bottom: 1px solid #BBBBBB;
+	padding: 16px; . order-table-even-row { height : 50px;
+	width: 100%;
+	text-align: center;
+	background: none repeat scroll 0 0 #FFFFFF;
+	border-bottom: 1px solid #BBBBBB;
+	padding: 16px;
+}
+
+form {
+	border: 3px solid #f1f1f1;
+}
+
+/* Full-width inputs */
+input {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+button {
+	background-color: #4CAF50;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px 0;
+	border: none;
+	cursor: pointer;
+	width: 100%;
+}
+
+inf-content {
+	border: 1px solid #DDDDDD;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.3);
+}
+
+table.table3 {
+	height: 20px;
+	width: 100%;
+	text-align: left;
+	border-bottom: 1px solid #BBBBBB;
+	padding: 16px;
+	border: 1px solid black;
+	background: none repeat scroll 0 0 #E5E5E5;
+}
+
+th.table3, td.table3 {
+	border: 1px solid black;
+	text-align: left;
+	padding: 15px;
+}
+
+table.table4 {
+	height: 20px;
+	width: 10px;
+	text-align: left;
+	padding: 15px;
+	
+}
+
+table.table4 tr, table.table4 td {
+	border: 1px solid black;
+	text-align: left;
+	padding: 15px;
+}
+table.table4 th {
+	text-align: left;
+	width: relative;
+	background: none repeat scroll 0 0 #FFFFFF;
+	padding: 15px;
+}
+
+.demo-content{
+        padding: 15px;
+        font-size: 18px;
+        min-height: 300px;
+        background: #dbdfe5;
+        margin-bottom: 10px;
+    }
+.demo-content.bg-alt{
+        background: #abb1b8;
+ }
+.bs-example{
+   margin: 20px;
+}
+.profile-img-card{
+	max-height: 20px;
+	max-width: 20px;
+
+ }
+    
+  

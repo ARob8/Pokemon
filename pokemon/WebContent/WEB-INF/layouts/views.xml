@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tiles-definitions PUBLIC "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN" "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+
+<tiles-definitions>
+	<definition name="index" extends="DefaultTemplate">
+    	<put-attribute name="body" value="/WEB-INF/pages/index.jsp" />
+	</definition>
+	
+	<definition name="editResponse" extends="DefaultTemplate">
+    	<put-attribute name="body" value="/WEB-INF/pages/editResponse.jsp" />
+	</definition>
+	
+	<definition name="register" extends="DefaultTemplate">
+    	<put-attribute name="body" value="/WEB-INF/pages/register.jsp" />
+	</definition>
+	<definition name="login" extends="DefaultTemplate">
+    	<put-attribute name="body" value="/WEB-INF/pages/login.jsp" />
+	</definition>
+	<definition name="viewCard" extends="DefaultTemplate">
+    	<put-attribute name="body" value="/WEB-INF/pages/viewCard.jsp" />
+	</definition>
+	<definition name="loginError" extends="DefaultTemplate">
+    	<put-attribute name="body" value="/WEB-INF/pages/loginError.jsp" />
+	</definition>
+	
+	<definition name="registerSuccess" extends="DefaultTemplate">
+    	<put-attribute name="body" value="/WEB-INF/pages/registerSuccess.jsp" />
+	</definition>
+	<definition name="registerError" extends="DefaultTemplate">
+    	<put-attribute name="body" value="/WEB-INF/pages/registerError.jsp" />
+	</definition>
+	<definition name="addCard" extends="DefaultTemplate">
+    	<put-attribute name="body" value="/WEB-INF/pages/addCard.jsp" />
+	</definition>
+	<definition name="addCardSuccess" extends="DefaultTemplate">
+    	<put-attribute name="body" value="/WEB-INF/pages/addCardSuccess.jsp" />
+	</definition>
+		<definition name="addCardSuccess2" extends="DefaultTemplate">
+    	<put-attribute name="body" value="/WEB-INF/pages/addCardSuccess2.jsp" />
+	</definition>
+	<definition name="showCard" extends="DefaultTemplate">
+    	<put-attribute name="body" value="/WEB-INF/pages/showCard.jsp" />
+	</definition>
+	<definition name="showCard2" extends="DefaultTemplate">
+    	<put-attribute name="body" value="/WEB-INF/pages/showCard2.jsp" />
+	</definition>
+	<definition name="homepage" extends="DefaultTemplate">
+    	<put-attribute name="body" value="/WEB-INF/pages/login.jsp" />
+	</definition>
+	<definition name="viewCard2" extends="DefaultTemplate">
+    	<put-attribute name="body" value="/WEB-INF/pages/viewCard2.jsp" />
+	</definition>
+	
+	<definition name="deletePass" extends="DefaultTemplate">
+    	<put-attribute name="body" value="/WEB-INF/pages/deletePass.jsp" />
+	</definition>
+</tiles-definitions>
