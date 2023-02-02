@@ -7,8 +7,8 @@
     <h1>Pokémon Card Marketplace</h1>
     <ul>
         <li><h3>Pokémon Card Marketplace to search, sell, buy, and auction Pokémon cards.<h3></li>
-        <li><h3>Designed using N-Layer architecture with distinct and separate presentation, business, and data management components</h3></li>
-        <li><h3>Spring MVC Framework, Spring Core, Spring JDBC, Apache Tomcat server, Apache Derby, JSF, CSS, jQuery, JavaScript, Bootstrap</h3></li>
+        <li><h3>Designed using N-Layer architecture with distinct and separate presentation, business, and data management components.</h3></li>
+        <li><h3>Spring MVC Framework, Spring Core, Spring JDBC, Apache Tomcat server, Apache Derby, JSF, CSS, jQuery, JavaScript, Bootstrap.</h3></li>
     </ul>
   </body>
 </html>
