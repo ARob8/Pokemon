@@ -4,9 +4,12 @@
       <meta charset="utf=8">
     </head>
     <body>
-    <h1>Pokémon Card Game Web Application</h1>
-        <p>Designed and developed a web application application using the Spring MVC Framework and N-Layer architecture to search, sell, buy, and auction a Pokémon card. Application uses Spring MVC, Spring Core, Spring JDBC, jQuery, Apache Tomcat server, Apache Derby, HTML, CSS, and Bootstrap.
-</p>
+    <h1>Pokémon Card Marketplace</h1>
+    <ul>
+        <li>Pokémon Card Marketplace to search, sell, buy, and auction Pokémon cards.</li>
+        <li><h3>Designed using N-Layer architecture with distinct and separate presentation, business, and data management components</h3></li>
+        <li><h3>Spring MVC Framework, Spring Core, Spring JDBC, Apache Tomcat server, Apache Derby, JSF, CSS, jQuery, JavaScript, Bootstrap</h3></li>
+    </ul>
   </body>
 </html>
 
