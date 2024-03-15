@@ -1,7 +1,7 @@
 # Pokémon Card Marketplace
 
 ## Description
-This project aims to provide a platform for users to search, sell, buy, and auction Pokémon cards. It follows an N-Layer architecture with distinct presentation, business, and data management components.
+This java-based spring application provides a platform for users to search, sell, buy, and auction Pokémon cards. It follows an N-Layer architecture with distinct presentation, business, and data management components.
 
 ## Technologies
 - Spring Framework: Provides a robust foundation for building the backend.
